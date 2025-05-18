@@ -29,7 +29,7 @@ This notebook:
 
 ---
 
-## 🔍 Technologies & Libraries
+## Technologies & Libraries
 
 - Python 3.11
 - [yfinance](https://github.com/ranaroussi/yfinance) – to fetch options chain data
@@ -40,7 +40,7 @@ This notebook:
 
 ---
 
-## 💡 Example Visualizations
+## Example Visualizations
 
 **Implied Volatility Surface:**  
 See [Implied Volatility Surface](https://wyatt-sheldon.github.io/Volatility-Surface-Dupire/implied_vol_surface.html)
@@ -48,11 +48,10 @@ See [Implied Volatility Surface](https://wyatt-sheldon.github.io/Volatility-Surf
 **Smoothed Dupire Local Volatility Surface:**  
 See [Smoothed Dupire Local Volatility Surface](https://wyatt-sheldon.github.io/Volatility-Surface-Dupire/smoothed_local_vol_surface.html)
 
-> Open in browser to rotate and explore in 3D
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 Clone the repo and install dependencies:
 
