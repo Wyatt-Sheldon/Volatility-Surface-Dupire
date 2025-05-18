@@ -42,11 +42,11 @@ This notebook:
 
 ## 💡 Example Visualizations
 
-📊 **Implied Volatility Surface:**  
-See [`implied_vol_surface.html`](./plots/implied_vol_surface.html)
+**Implied Volatility Surface:**  
+See [Implied Volatility Surface](https://wyatt-sheldon.github.io/Volatility-Surface-Dupire/implied_vol_surface.html)
 
-📉 **Smoothed Dupire Local Volatility Surface:**  
-See [`smoothed_local_vol_surface.html`](./plots/smoothed_local_vol_surface.html)
+**Smoothed Dupire Local Volatility Surface:**  
+See [Smoothed Dupire Local Volatility Surface](https://wyatt-sheldon.github.io/Volatility-Surface-Dupire/smoothed_local_vol_surface.html)
 
 > Open in browser to rotate and explore in 3D
 
